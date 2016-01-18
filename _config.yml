@@ -1,7 +1,7 @@
 name: Weswoodworth
 favicon: null
-layout_spectrum: 0.17577131697908044
-typography_spectrum: 0.8207053760997951
+layout_spectrum: 0.6568964496254921
+typography_spectrum: 0.5402492780704051
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5899133656639606
-  lightness: 0.5589642189443111
-  saturation: 0.03985012439079583
-  rhythmicContrast: 0.16494497493840754
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9416591033805162
+  lightness: 0.9282181630842388
+  saturation: 0.3963207758497447
+  rhythmicContrast: 0.15073110861703753
 purpose: []
